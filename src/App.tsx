@@ -117,7 +117,7 @@ function App() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
           <div className="bg-white rounded-xl shadow-md p-6">
             <div className="flex justify-between items-center mb-4">
-              <h2 className="text-xl font-semibold">Некад било овако а сада WiFi !</h2>
+              <h2 className="text-xl font-semibold">Некад било чекање на ред од 4 ујутру а сада WiFi !</h2>
               <ImageIcon className="h-6 w-6 text-gray-500" />
             </div>
             <img 
